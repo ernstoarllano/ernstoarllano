@@ -3,8 +3,6 @@
 **Senior Full-Stack Engineer | React, TypeScript, Node.js, Tailwind**  
 Driving front-end modernization & building scalable, high-performance platforms.
 
----
-
 ## About Me
 I’m a **Senior Full-Stack Software Engineer** with 12+ years of experience delivering **scalable web applications**, **high-performance frontends**, and **robust backend systems**.  
 
@@ -16,16 +14,12 @@ I specialize in modern frontend frameworks, backend architectures, and developer
 
 I focus on building **maintainable, reliable, and high-impact solutions** that enhance both **user experience** and **developer efficiency**.
 
----
-
 ## Currently Learning
 I’m exploring backend and full-stack tooling to strengthen my architecture and scalability skills:
 
 - **NestJS** – structured backend development and scalable APIs  
 - **TanStack Start** – modern full-stack app scaffolding and patterns  
 - **TanStack DB** – building next-gen database-driven applications
-
----
 
 ## Tech Stack & Tooling
 
